@@ -67,7 +67,7 @@ class MetroParsing:
             print(ex)
 
     def save_csv(self, data: list) -> None: # Сохранение результата в csv формат
-        with open('result.csv', 'a') as file:
+        with open('result.csv', 'w') as file:
             writer = csv.writer(file)
             writer.writerow(('Артикул',
                              'Название товара',
@@ -76,6 +76,8 @@ class MetroParsing:
                              'Цена со скидкой',
                              'Бренд'))
             for item in data:
+                if item['stocks'][0]['value'] == 0:
+                    continue
                 card_item = [item['article'],
                              item['name'],
                              f'https://online.metro-cc.ru{item["url"]}',
@@ -92,6 +94,6 @@ class MetroParsing:
 
 if __name__ == '__main__':
     parsing = MetroParsing()
-    data = parsing.get_products_category('vodka')
+    data = parsing.get_products_category('syry')
     parsing.save_json(data)
     parsing.save_csv(data)

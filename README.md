@@ -9,10 +9,10 @@
 Дальше дело обработки)
 
 Несколько различных категорий:
-vodka
-ohlazhdennaya-ryba
-syry
-cherniy-chay
+* vodka
+* ohlazhdennaya-ryba
+* syry
+* cherniy-chay
 
 Данные названия категорий идут в метод get_products_category в качества аргумента
 

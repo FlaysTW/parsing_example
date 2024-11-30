@@ -64,12 +64,12 @@
         "brand": "DOLCE"
     },
     {
-        "id": 238523,
-        "title": "Сыр Laime Diamond Пармезан твердый 40%, 180г",
-        "url": "https://online.metro-cc.ru/products/syr-parmezan-laime-diamond-40-180g",
-        "price": 579,
-        "promo_price": 449,
-        "brand": "LAIME"
+        "id": 111787,
+        "title": "METRO Chef Сыр с голубой плесенью 50%, 100г",
+        "url": "https://online.metro-cc.ru/products/metro-chef-s-goluboj-50-100g",
+        "price": 237,
+        "promo_price": 199,
+        "brand": "METRO CHEF"
     },
     {
         "id": 124474,
@@ -80,12 +80,12 @@
         "brand": "DOLCE"
     },
     {
-        "id": 219570,
-        "title": "Сыр Эконива Durr Zeller твердый 55%, ~850г",
-        "url": "https://online.metro-cc.ru/products/850g-syr-55-dyurr-tseller-ekoniva-6-mes-vyderzh-bzmzh",
-        "price": 1546.15,
-        "promo_price": 1495.15,
-        "brand": "ЭКОНИВА"
+        "id": 238523,
+        "title": "Сыр Laime Diamond Пармезан твердый 40%, 180г",
+        "url": "https://online.metro-cc.ru/products/syr-parmezan-laime-diamond-40-180g",
+        "price": 579,
+        "promo_price": 449,
+        "brand": "LAIME"
     },
     {
         "id": 96973,
@@ -96,12 +96,12 @@
         "brand": "PRESIDENT"
     },
     {
-        "id": 111787,
-        "title": "METRO Chef Сыр с голубой плесенью 50%, 100г",
-        "url": "https://online.metro-cc.ru/products/metro-chef-s-goluboj-50-100g",
-        "price": 237,
-        "promo_price": 199,
-        "brand": "METRO CHEF"
+        "id": 219570,
+        "title": "Сыр Эконива Durr Zeller твердый 55%, ~850г",
+        "url": "https://online.metro-cc.ru/products/850g-syr-55-dyurr-tseller-ekoniva-6-mes-vyderzh-bzmzh",
+        "price": 1546.15,
+        "promo_price": 1495.15,
+        "brand": "ЭКОНИВА"
     },
     {
         "id": 248711,
@@ -136,20 +136,20 @@
         "brand": "MOZER"
     },
     {
-        "id": 221579,
-        "title": "METRO Chef Сыр чеддар швейцарский 50%, 200г",
-        "url": "https://online.metro-cc.ru/products/200g-syr-cheddar-50-metro-chef-shveytsarskiy-bzmzh",
-        "price": 549,
-        "promo_price": 529,
-        "brand": "METRO CHEF"
-    },
-    {
         "id": 241697,
         "title": "Сыр Кабош Пармезан твердый колотый 40%, 100г",
         "url": "https://online.metro-cc.ru/products/100g-syr-parmezan-40-kabosh-kolotyy-bzmzh",
         "price": 222,
         "promo_price": 149,
         "brand": "КАБОШ"
+    },
+    {
+        "id": 221579,
+        "title": "METRO Chef Сыр чеддар швейцарский 50%, 200г",
+        "url": "https://online.metro-cc.ru/products/200g-syr-cheddar-50-metro-chef-shveytsarskiy-bzmzh",
+        "price": 549,
+        "promo_price": 529,
+        "brand": "METRO CHEF"
     },
     {
         "id": 228616,
